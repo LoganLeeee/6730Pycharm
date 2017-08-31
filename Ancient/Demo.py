@@ -1,0 +1,2 @@
+import robot
+robot.init()
